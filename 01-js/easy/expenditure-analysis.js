@@ -6,7 +6,21 @@
 */
 
 function calculateTotalSpentByCategory(transactions) {
+
+  for(let i = 0; i < transactions.length; i++){
+      
+  }
   return [];
 }
+
+calculateTotalSpentByCategory(transactions = [
+  {
+    id: 1,
+    timestamp: 1656076800000,
+    price: 10,
+    category: 'Food',
+    itemName: 'Pizza',
+  },
+])
 
 module.exports = calculateTotalSpentByCategory;

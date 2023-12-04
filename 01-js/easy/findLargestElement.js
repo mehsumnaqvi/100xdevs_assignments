@@ -7,6 +7,15 @@
 
 function findLargestElement(numbers) {
     
+    //Initialized the variable with the first element of the array instead of explicity initializing
+    let isLargest = numbers[0];
+
+    for(let i = 0; i < numbers.length; i++){
+        if (numbers[i] > isLargest){
+            isLargest = numbers[i];
+        }
+    }
+    return isLargest;
 }
 
 module.exports = findLargestElement;
