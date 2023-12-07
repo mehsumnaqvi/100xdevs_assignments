@@ -22,27 +22,27 @@ function countVowels(str) {
 
 }
 
-  console.log(countVowels('hello'));
-  console.log(countVowels('programming'));
-  console.log(countVowels('OpenAI'));
+  // console.log(countVowels('hello'));
+  // console.log(countVowels('programming'));
+  // console.log(countVowels('OpenAI'));
 
-  console.log(countVowels('rhythm'));
-  console.log(countVowels('fly'));
-  console.log(countVowels('chatbot'));
+  // console.log(countVowels('rhythm'));
+  // console.log(countVowels('fly'));
+  // console.log(countVowels('chatbot'));
 
-  console.log(countVowels(''));
+  // console.log(countVowels(''));
 
-  console.log(countVowels('EaSiEr'));
-  console.log(countVowels('QUIET'));
-  console.log(countVowels('aEIOU'));
+  // console.log(countVowels('EaSiEr'));
+  // console.log(countVowels('QUIET'));
+  // console.log(countVowels('aEIOU'));
 
-  console.log(countVowels('the quick brown fox'));
-  console.log(countVowels('a e i o u'));
-  console.log(countVowels('testing spaces'));
+  // console.log(countVowels('the quick brown fox'));
+  // console.log(countVowels('a e i o u'));
+  // console.log(countVowels('testing spaces'));
 
-  console.log(countVowels('Hello, world!'));
-  console.log(countVowels('Coding is fun!!!'));
-  console.log(countVowels('Keep smiling, boo.'));
+  // console.log(countVowels('Hello, world!'));
+  // console.log(countVowels('Coding is fun!!!'));
+  // console.log(countVowels('Keep smiling, boo.'));
 
 
 
